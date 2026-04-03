@@ -1,0 +1,6 @@
+# C++ build files
+*.exe
+*.o
+*.out
+*.obj
+.vscode/
